@@ -1,0 +1,17 @@
+[package]
+name = "suirify"
+version = "1.0.0"
+edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
+license = "Apache 2.0"
+authors = ["CYBWithFlourish (project.samclak@gmail.com)"]
+
+[dependencies]
+
+
+[addresses]
+suirify = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses]
+
