@@ -3,6 +3,7 @@ name = "suirify"
 version = "1.0.0"
 edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
 license = "Apache 2.0"
+# published-at ="" 
 authors = ["CYBWithFlourish (project.samclak@gmail.com)"]
 
 [dependencies]
